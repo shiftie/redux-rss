@@ -1,0 +1,29 @@
+#app {
+    padding: 2em;
+}
+
+.label {
+    display: inline-block;
+    margin: .25em;
+}
+
+.categories {
+    padding-bottom: 1em;
+    text-align: right;
+}
+
+.content {
+    padding: 1em;
+    border: 1px solid #ddd;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 3em;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
